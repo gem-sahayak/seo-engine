@@ -54,17 +54,17 @@ export default function Home() {
       <section style={{ background: "radial-gradient(circle at 80% 20%, rgba(22, 163, 74, 0.08) 0%, rgba(13, 33, 55, 0.02) 100%)", padding: "100px 0 80px 0", borderBottom: "1px solid var(--border-light)" }}>
         <div className="container grid grid-2" style={{ alignItems: "center" }}>
           <div>
-            <div style={{ display: "inline-flex", alignItems: "center", gap: "8px", background: "rgba(22, 163, 74, 0.1)", color: "#15803d", padding: "6px 14px", borderRadius: "100px", fontSize: "0.85rem", fontWeight: "700", marginBottom: "20px" }}>
-              🟢 Built for MSME Government Sellers in India
+            <div style={{ display: "inline-flex", alignItems: "center", gap: "8px", background: "linear-gradient(135deg, rgba(22, 163, 74, 0.1) 0%, rgba(22, 163, 74, 0.2) 100%)", color: "#15803d", padding: "8px 16px", borderRadius: "100px", fontSize: "0.9rem", fontWeight: "800", marginBottom: "20px", border: "1px solid rgba(22, 163, 74, 0.3)" }}>
+              🚀 GeM Sahayak Chrome Extension is LIVE now
             </div>
             <h1 className="animate-fade-in-up" style={{ marginBottom: "20px", color: "var(--primary-dark)" }}>
-              GeM Portal Bidding <span className="animate-text-shimmer">Bani Aasan!</span>
+              GeM Portal Bidding <span className="animate-text-shimmer">Bani Aasaan!</span>
             </h1>
             <p className="animate-fade-in-up delay-1" style={{ marginBottom: "32px", fontSize: "1.15rem", color: "var(--text-muted)", fontWeight: "500" }}>
-              Stop refreshing the GeM portal manually every hour. GeM Sahayak tracks bids in the background, pushes new alerts to your WhatsApp, auto-calculates L1 pricing, and simplifies catalog management.
+              Stop refreshing the GeM portal manually every hour. GeM Sahayak tracks bids in the background, pushes new alerts to your WhatsApp, gives you the best suggestions for bidding price evaluation, helps you understand the full Bid Document in a very simple way, and suggests how to create your catalog and add products easily.
             </p>
             <div className="animate-fade-in-up delay-2" style={{ display: "flex", gap: "16px", flexWrap: "wrap" }}>
-              <a href="https://chrome.google.com/webstore" target="_blank" className="btn btn-primary" style={{ padding: "16px 32px", fontSize: "1.05rem" }}>
+              <a href="https://chromewebstore.google.com/detail/gem-sahayak/baffilhpagolnhhfhaeaniaiagjgibcf" target="_blank" className="btn btn-primary" style={{ padding: "16px 32px", fontSize: "1.05rem" }}>
                 📥 Add to Chrome — It's Free
               </a>
               <a href="#demo" className="btn btn-outline" style={{ padding: "16px 32px", fontSize: "1.05rem" }}>
@@ -74,18 +74,18 @@ export default function Home() {
             
             <div style={{ display: "flex", gap: "32px", marginTop: "48px" }}>
               <div>
-                <h3 style={{ fontSize: "2rem", color: "var(--primary-green)", marginBottom: "4px" }}>500+</h3>
-                <p style={{ fontSize: "0.9rem", fontWeight: "600" }}>MSMEs Enrolled</p>
+                <h3 style={{ fontSize: "1.4rem", color: "var(--primary-green)", marginBottom: "4px" }}>Tested ✅</h3>
+                <p style={{ fontSize: "0.9rem", fontWeight: "600" }}>City Searches</p>
               </div>
               <div style={{ borderRight: "1px solid var(--border-light)" }}></div>
               <div>
-                <h3 style={{ fontSize: "2rem", color: "var(--primary-green)", marginBottom: "4px" }}>10,000+</h3>
-                <p style={{ fontSize: "0.9rem", fontWeight: "600" }}>Alerts Dispatched</p>
+                <h3 style={{ fontSize: "1.4rem", color: "var(--primary-green)", marginBottom: "4px" }}>Tested ✅</h3>
+                <p style={{ fontSize: "0.9rem", fontWeight: "600" }}>Ministry Searches</p>
               </div>
               <div style={{ borderRight: "1px solid var(--border-light)" }}></div>
               <div>
-                <h3 style={{ fontSize: "2rem", color: "var(--primary-green)", marginBottom: "4px" }}>100%</h3>
-                <p style={{ fontSize: "0.9rem", fontWeight: "600" }}>Compliance Kept</p>
+                <h3 style={{ fontSize: "1.4rem", color: "var(--primary-green)", marginBottom: "4px" }}>Tested ✅</h3>
+                <p style={{ fontSize: "0.9rem", fontWeight: "600" }}>Product Searches</p>
               </div>
             </div>
           </div>
@@ -108,7 +108,7 @@ export default function Home() {
                   📅 *End Date:* 26-06-2026{"\n"}
                   🔢 *Bid No:* GEM/2026/B/7481811{"\n\n"}
                   🔗 *Link:* https://bidplus.gem.gov.in/showbidDocument/9282985{"\n\n"}
-                  Radhey Radhey! 🙏
+                  Namaste! 🙏
                 </p>
               </div>
               <div className="pulse-soft" style={{ position: "absolute", top: "-15px", right: "-15px", background: "linear-gradient(135deg, #16a34a 0%, #15803d 100%)", color: "white", width: "48px", height: "48px", borderRadius: "50%", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "1.5rem", boxShadow: "0 4px 14px rgba(22, 163, 74, 0.4)" }}>
@@ -150,8 +150,8 @@ export default function Home() {
             <div className="card-3d">
               <div className="card-3d-content">
                 <div style={{ fontSize: "2.5rem", marginBottom: "20px" }}>🤖</div>
-                <h3 style={{ marginBottom: "12px", color: "var(--primary-dark)" }}>L1 Pricing Intelligence</h3>
-                <p>Competitor pricing data, technical compliance metrics aur BOQ standard rates ko automatic scan karke minimum matching price suggest karta hai catalog approve karne ke liye.</p>
+                <h3 style={{ marginBottom: "12px", color: "var(--primary-dark)" }}>Bid Pricing Intelligence</h3>
+                <p>Market pricing data, technical compliance metrics aur BOQ standard rates ko automatic scan karke minimum matching price suggest karta hai jisse aapke tender milne ke chance badh jaten hain.</p>
               </div>
             </div>
 
@@ -169,7 +169,7 @@ export default function Home() {
               <div className="card-3d-content">
                 <div style={{ fontSize: "2.5rem", marginBottom: "20px" }}>📂</div>
                 <h3 style={{ marginBottom: "12px", color: "var(--primary-dark)" }}>1-Click PDF Downloads</h3>
-                <p>Bina browser 404 links ki problem ke, correct PDF document paths (/showbidDocument) ke click-through se directly tender files aur documents download karein.</p>
+                <p>Bina Browser click kiye Direct ek lengthy Bid document ke pdf ko upload karke reports ko download kar sakte hain.</p>
               </div>
             </div>
 
@@ -178,9 +178,36 @@ export default function Home() {
               <div className="card-3d-content">
                 <div style={{ fontSize: "2.5rem", marginBottom: "20px" }}>⚙️</div>
                 <h3 style={{ marginBottom: "12px", color: "var(--primary-dark)" }}>Secure & Zero-Config Setup</h3>
-                <p>No Meta permissions, no complex Business Verification. Apne standard WhatsApp provider (Green API or UltraMsg) ko link karke 1 minute mein automated alerts start karein.</p>
+                <p>Minimum details for registration, no GeM ID/Password needed, no big configuration needed, just plug and play.</p>
               </div>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* 🚀 UPCOMING MOBILE APP SECTION */}
+      <section id="mobile-app" style={{ padding: "80px 0", background: "linear-gradient(135deg, rgba(14, 138, 138, 0.05) 0%, rgba(13, 33, 55, 0.05) 100%)", borderTop: "1px solid var(--border-light)", borderBottom: "1px solid var(--border-light)" }}>
+        <div className="container grid grid-2" style={{ alignItems: "center" }}>
+          <div>
+            <div style={{ display: "inline-flex", alignItems: "center", gap: "8px", background: "#fef3c7", color: "#d97706", padding: "6px 14px", borderRadius: "100px", fontSize: "0.85rem", fontWeight: "700", marginBottom: "20px" }}>
+              📱 UPCOMING RELEASE
+            </div>
+            <h2 style={{ marginBottom: "20px", color: "var(--primary-dark)" }}>GeM Sahayak Mobile App</h2>
+            <p style={{ marginBottom: "32px", fontSize: "1.1rem", color: "var(--text-muted)", lineHeight: "1.6" }}>
+              Sellers on the go! Very soon, you won't even need a laptop to stay updated. We are launching the GeM Sahayak Mobile App for Android and iOS. 
+              Manage your bids, respond to clarifications, and get AI-powered insights right from your pocket.
+            </p>
+            <div style={{ display: "flex", gap: "16px" }}>
+              <button className="btn btn-outline" style={{ padding: "12px 24px", display: "flex", alignItems: "center", gap: "8px" }} onClick={() => alert('Waitlist joined successfully!')}>
+                Join the Waitlist 🚀
+              </button>
+            </div>
+          </div>
+          <div style={{ display: "flex", justifyContent: "center", position: "relative" }}>
+             <div style={{ width: "260px", height: "540px", borderRadius: "36px", border: "10px solid #1e293b", position: "relative", overflow: "hidden", boxShadow: "0 25px 50px -12px rgba(0, 0, 0, 0.25)", background: "#ffffff", display: "flex", alignItems: "center", justifyContent: "center" }}>
+                {/* Mock Mobile Screen replacing with real screenshot */}
+                <img src="/mobile_mockup.png" alt="GeM Sahayak Mobile App" style={{ width: "100%", height: "100%", objectFit: "cover" }} />
+             </div>
           </div>
         </div>
       </section>
@@ -268,7 +295,7 @@ export default function Home() {
         <div className="container">
           <div className="grid grid-2" style={{ alignItems: "center" }}>
             <div>
-              <h2 style={{ marginBottom: "20px" }}>Humare Sath Government Business Ko Dominate Karein</h2>
+              <h2 style={{ marginBottom: "20px" }}>Humare sath Bharat Sarkar ke "Sabka Sath Sabka Vikas" ke sapney ko poora karen</h2>
               <p style={{ marginBottom: "16px" }}>Bidding system ek race hai. Jab tak aap manual website search se bids find karke specifications read karenge, tab tak dusre bid submit kar chuke hote hain.</p>
               <p style={{ marginBottom: "24px" }}>GeM Sahayak extension ke sath, notification trigger hote hi raw values calculate ho jati hain, jisse aap minimal response timeline ke andar competitive bidding execute kar pate hain.</p>
               <ul style={{ listStyle: "none", display: "flex", flexDirection: "column", gap: "12px", fontWeight: "700", color: "var(--primary-dark)" }}>
@@ -281,7 +308,7 @@ export default function Home() {
             <div style={{ background: "linear-gradient(135deg, var(--primary-dark) 0%, #1e293b 100%)", padding: "40px", borderRadius: "24px", color: "#e2e8f0", boxShadow: "var(--shadow-lg)" }}>
               <h3 style={{ color: "#f8fafc", marginBottom: "16px" }}>Ready to scale your business?</h3>
               <p style={{ color: "#94a3b8", marginBottom: "32px", fontSize: "0.95rem" }}>Install standard Chrome Extension directly from store, scan the QR code to set up your WhatsApp alerts gateway, and start tracking in less than 2 minutes.</p>
-              <a href="https://chrome.google.com/webstore" target="_blank" className="btn btn-primary" style={{ width: "100%", padding: "16px" }}>
+              <a href="https://chromewebstore.google.com/detail/gem-sahayak/baffilhpagolnhhfhaeaniaiagjgibcf" target="_blank" className="btn btn-primary" style={{ width: "100%", padding: "16px" }}>
                 Add GeM Sahayak to Chrome — 100% Free
               </a>
             </div>
