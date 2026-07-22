@@ -1,0 +1,58 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AstraPluginManifestV2Schema",
+  "type": "object",
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "name": { "type": "string", "minLength": 1 },
+    "version": { "type": "string", "pattern": "^\\d+\\.\\d+\\.\\d+$" },
+    "author": { "type": "string" },
+    "publisher": { "type": "string" },
+    "homepage": { "type": "string" },
+    "license": { "type": "string" },
+    "repository": { "type": "string" },
+    "engineVersion": { "type": "string" },
+    "apiVersion": { "type": "string" },
+    "engineCompatibility": {
+      "type": "object",
+      "properties": {
+        "minVersion": { "type": "string" },
+        "maxVersion": { "type": "string" }
+      }
+    },
+    "trustLevel": {
+      "type": "string",
+      "enum": ["OFFICIAL", "VERIFIED", "COMMUNITY", "UNSIGNED", "BLOCKED"]
+    },
+    "checksum": { "type": "string" },
+    "signature": { "type": "string" },
+    "description": { "type": "string" },
+    "dependencies": { "type": "object" },
+    "peerDependencies": { "type": "object" },
+    "optionalDependencies": { "type": "object" },
+    "permissions": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["READ_REPORTS", "READ_STATE", "READ_RESULTS", "READ_GRAPH", "READ_REGISTRY"]
+      }
+    },
+    "hooks": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "beforeScan",
+          "beforeRegistry",
+          "beforeSEO",
+          "beforeGraph",
+          "afterGraph",
+          "beforeReport",
+          "afterReport",
+          "afterScan"
+        ]
+      }
+    }
+  },
+  "required": ["id", "name", "version", "engineVersion", "permissions", "hooks"]
+}
