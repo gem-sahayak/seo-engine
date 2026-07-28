@@ -44,6 +44,9 @@ jobs:
           node astra-engine/tests/package.test.js
           node astra-engine/tests/sdk.test.js
 
+      - name: Validate SEO Content Articles
+        run: node -e "const fs=require('fs'); const posts=fs.readdirSync('posts').filter(f=>f.endsWith('.md')); console.log('SEO Articles Verified:', posts.length); if(posts.length < 130) process.exit(1);"
+
       - name: Run Full Engine Validation Gatekeeper
         run: |
           node astra-engine/cli.js validate

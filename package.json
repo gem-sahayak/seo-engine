@@ -5,11 +5,20 @@
   "private": true,
   "main": "src/lib/content/contentLoader.ts",
   "scripts": {
-    "validate": "node -e \"console.log('SEO Engine Manifest Valid')\""
+    "validate": "node -e \"console.log('SEO Engine Manifest Valid')\"",
+    "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "framer-motion": "^12.43.0",
     "gray-matter": "^4.0.3",
+    "lucide-react": "^1.27.0",
     "marked": "^18.0.5",
     "next": "16.2.9"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "typescript": "^5.9.3"
   }
 }
