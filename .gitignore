@@ -8,5 +8,6 @@ build/
 *.log
 *.tmp
 *.tsbuildinfo
+service-account.json
 .DS_Store
 Thumbs.db
