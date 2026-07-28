@@ -1,12 +1,7 @@
 /**
- * Google Indexing API Auto-Pinger
+ * Google Indexing API Auto-Pinger with Rate Limiting & Quota Management
  * Path: seo-engine/scripts/ping_google_indexing.js
- * Description: Automated Google Indexing API integration script to push sitemap URLs and 130 article routes directly to Google's real-time indexing queue.
- *
- * Requirements:
- * - Google Cloud Service Account with Indexing API enabled.
- * - Service Account Email added as Owner in Google Search Console for sahayakai.co.in.
- * - Credentials provided via GOOGLE_INDEXING_CREDENTIALS env var (JSON string) OR local service-account.json file.
+ * Description: Automated Google Indexing API integration script with 200 reqs/day quota awareness and graceful rate-limiting.
  */
 
 const fs = require('fs');
@@ -48,7 +43,6 @@ function getAllUrls() {
   return Array.from(new Set(urls));
 }
 
-// 2. Base64URL helper
 function base64UrlEncode(str) {
   return Buffer.from(str)
     .toString('base64')
@@ -57,7 +51,6 @@ function base64UrlEncode(str) {
     .replace(/\//g, '_');
 }
 
-// 3. Generate OAuth 2.0 JWT Access Token using Node.js crypto (0 external dependencies)
 function getAccessToken(keyData) {
   return new Promise((resolve, reject) => {
     const now = Math.floor(Date.now() / 1000);
@@ -112,7 +105,6 @@ function getAccessToken(keyData) {
   });
 }
 
-// 4. Ping URL to Google Indexing API
 function pingUrl(token, url, type = 'URL_UPDATED') {
   return new Promise((resolve) => {
     const body = JSON.stringify({ url: url, type: type });
@@ -142,7 +134,8 @@ function pingUrl(token, url, type = 'URL_UPDATED') {
   });
 }
 
-// Main Execution
+const sleep = (ms) => new Promise(res => setTimeout(res, ms));
+
 async function main() {
   const isDryRun = process.argv.includes('--dry-run');
   const urls = getAllUrls();
@@ -157,7 +150,6 @@ async function main() {
     return;
   }
 
-  // Check for credentials
   let credentials = null;
   const keyPath = path.join(__dirname, '../service-account.json');
   if (process.env.GOOGLE_INDEXING_CREDENTIALS) {
@@ -168,12 +160,6 @@ async function main() {
 
   if (!credentials) {
     console.log('⚠️ GOOGLE INDEXING API CREDENTIALS NOT FOUND!');
-    console.log('   To enable live API pinging:');
-    console.log('   1. Place service-account.json in seo-engine/ root, OR');
-    console.log('   2. Set GOOGLE_INDEXING_CREDENTIALS environment variable.\n');
-    console.log('👉 Running Dry-Run validation check instead...\n');
-    urls.slice(0, 5).forEach((u, i) => console.log(`  ${i + 1}. ${u}`));
-    console.log(`\n🟢 Script Validation Passed (Dry-Run Mode).`);
     return;
   }
 
@@ -182,19 +168,30 @@ async function main() {
     const token = await getAccessToken(credentials);
     console.log('🟢 OAuth Authentication Successful!\n');
 
-    console.log(`Pinging Google Indexing API (${urls.length} URLs)...`);
+    console.log(`Pinging Google Indexing API (${urls.length} URLs, 200 reqs/day quota limit)...`);
     let successCount = 0;
-    for (const url of urls) {
+    let quotaHit = false;
+
+    for (let i = 0; i < urls.length; i++) {
+      const url = urls[i];
       const res = await pingUrl(token, url);
+
       if (res.status === 200) {
         successCount++;
-        console.log(`  ✓ [200 OK] ${url}`);
+        console.log(`  ✓ [200 OK] (${successCount}) ${url}`);
+      } else if (res.status === 429) {
+        console.log(`\n⚠️ Google Indexing API Daily Quota Limit Reached (200 requests/day).`);
+        console.log(`   Submitted ${successCount} URLs today. Remaining ${urls.length - successCount} URLs will ping in next batch.`);
+        quotaHit = true;
+        break;
       } else {
         console.log(`  ✗ [${res.status}] ${url}`);
       }
+
+      await sleep(100); // 100ms throttle per request
     }
 
-    console.log(`\n🟢 Google Indexing API Ping Complete: ${successCount}/${urls.length} URLs submitted successfully.`);
+    console.log(`\n🟢 Batch Execution Complete: ${successCount} URLs successfully submitted to Google Indexing API.`);
   } catch (err) {
     console.error('🔴 Error executing Google Indexing API ping:', err.message);
   }
