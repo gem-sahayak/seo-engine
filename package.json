@@ -6,7 +6,8 @@
   "main": "src/lib/content/contentLoader.ts",
   "scripts": {
     "validate": "node -e \"console.log('SEO Engine Manifest Valid')\"",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "ping-google": "node scripts/ping_google_indexing.js"
   },
   "dependencies": {
     "framer-motion": "^12.43.0",
