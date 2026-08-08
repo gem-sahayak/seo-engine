@@ -3,7 +3,7 @@ title: "How to Use AI to Summarize Government Tender PDFs in 30 Seconds"
 summary: "Reading thick tender documents and bid PDFs manually takes hours. Discover how to extract compliance parameters and EMD details instantly."
 date: "2026-07-10"
 author: "SahayakAI Team"
-category: "Automation"
+category: "gem-bidding"
 ---
 
 ## The challenge of manual tender document reading:

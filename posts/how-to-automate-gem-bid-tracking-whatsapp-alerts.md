@@ -3,7 +3,7 @@ title: "WhatsApp and Voice Setup Guide"
 summary: "government e-marketplace (Gem India) bids search can be frustrating if done manually. Learn how to track active tenders automatically and receive real-time alerts on your mobile, along with voice narrations."
 date: "2026-06-18"
 author: "SahayakAI Team"
-category: "Automation"
+category: "gem-bidding"
 ---
 
 ## What is the biggest challenge for sellers and MSMEs on the Gem Portal?

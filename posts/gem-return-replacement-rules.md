@@ -263,8 +263,8 @@ Haan. Agar kisi seller ki multiple consignments product mismatch, low quality, y
 
 Apne returns aur replacements parameters calculate karne ke liye hamare advanced AI tools aur logs decoders use karein:
 
-* 🛠️ **[GeM Incident Decoder Tool →](https://sahayakai.co.in/tools/gem-incident-decoder)**: Incident warnings ko instantly decode karke draft reply templates ready karein.
-* 🛠️ **[Return Logistics Cost Calculator →](https://sahayakai.co.in/tools/return-cost-calculator)**: Multi-consignment return reverse logistics shipping fees and ground rent charges evaluate karein.
+* 🛠️ **[GeM Incident Decoder Tool →](/tools)**: Incident warnings ko instantly decode karke draft reply templates ready karein.
+* 🛠️ **[Return Logistics Cost Calculator →](/tools)**: Multi-consignment return reverse logistics shipping fees and ground rent charges evaluate karein.
 
 ---
 

@@ -55,4 +55,4 @@ A successful appeal should include:
 3.  **Counter-Arguments:** Explain clearly how your uploaded documents satisfy the criteria.
 4.  **Evidence Links:** Refer to specific pages of your uploaded technical bid PDF.
 
-For automated assistance in drafting these letters, try our [Rejection Representation Writer](/tools/rejection-reply-generator).
+For automated assistance in drafting these letters, try our [Rejection Representation Writer](/tools/ai-representation).

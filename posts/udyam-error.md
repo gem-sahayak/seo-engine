@@ -111,19 +111,19 @@ Bina kisi login ya setup ke, aap abhi humare live AI tools ka free demo check ka
 
 ### ✅ AI Bid Search
 Find live GeM bids naturally using Hinglish queries.
-[Try Demo →](https://sahayakai.co.in/tools/bid-search)
+[Try Demo →](/tools/tender-search)
 
 ---
 
 ### ✅ AI Catalog Dashboard
 Generate correct procurement catalog paths instantly.
-[Try Demo →](https://sahayakai.co.in/tools/ai-catalog-dashboard)
+[Try Demo →](/tools/catalog-assistant)
 
 ---
 
 ### ✅ AI Tender Document Analyzer
 Upload your complex tender PDF file and get L1 criteria instantly.
-[Try Demo →](https://sahayakai.co.in/tools/bid-analyzer)
+[Try Demo →](/tools/pdf-analyzer)
 
 ---
 
@@ -163,11 +163,11 @@ Haan, jaise hi Udyam details verify hoti hain, tender bid submission ke time EMD
 ---
 
 ## 🔗 Related Articles
-*   [GeM Registration Documents Required for Partnership Firms](https://sahayakai.co.in/blog/partnership-docs)
-*   [Ultimate Udyam Registration & GeM Portal Exemptions Guide](https://sahayakai.co.in/blog/ultimate-udyam-registration-gem-portal-exemptions)
-*   [GeM Portal Direct Purchase Limit Rules 2026](https://sahayakai.co.in/blog/gem-portal-direct-purchase-limit-rules-2026)
-*   [How to Claim EMD Exemption on GeM Portal Bids](https://sahayakai.co.in/blog/how-to-claim-emd-exemption-gem-portal-bids)
-*   [Resolving GeM Portal Catalog Upload Errors](https://sahayakai.co.in/blog/resolving-gem-portal-catalog-upload-errors)
+*   [GeM Registration Documents Required for Partnership Firms](/knowledge/gem-registration/partnership-docs)
+*   [Ultimate Udyam Registration & GeM Portal Exemptions Guide](/knowledge/gem-registration/ultimate-udyam-registration-gem-portal-exemptions)
+*   [GeM Portal Direct Purchase Limit Rules 2026](/knowledge/compliance-policy/gem-portal-direct-purchase-limit-rules-2026)
+*   [How to Claim EMD Exemption on GeM Portal Bids](/knowledge/compliance-policy/how-to-claim-emd-exemption-gem-portal-bids)
+*   [Resolving GeM Portal Catalog Upload Errors](/knowledge/catalog-management/resolving-gem-portal-catalog-upload-errors)
 
 ---
 

@@ -53,4 +53,4 @@ Combine terms logically:
 *   Instead of `Stainless Steel Waste Bin for Hospital Room`, search for `Waste Bin` or `Dustbin`.
 *   Filter by buyer ministry to narrow down the results after using broad terms.
 
-For assistance with keyword generation, try our [GeM Keyword Generator Tool](/tools/gem-keyword-generator).
+For assistance with keyword generation, try our [GeM Keyword Generator Tool](/tools).

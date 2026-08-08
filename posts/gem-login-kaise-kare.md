@@ -5,7 +5,7 @@ slug: "gem-login-kaise-kare"
 date: "2026-07-20"
 lastUpdated: "2026-07-20"
 author: "SahayakAI Editorial Team"
-category: "GeM Account Management"
+category: "gem-registration"
 readingTime: "14 min read"
 difficulty: "Beginner"
 verifiedFor: "2026 Procurement Rules"
@@ -333,16 +333,16 @@ Work poora hone ke baad hamesha "Logout" button par click karein aur browser win
 
 ## Related Articles & Next Steps
 
-- [GeM Registration Kaise Kare](/posts/gem-registration-kaise-kare) — Basic account setup walkthrough
-- [GeM Par Seller Registration Kaise Kare](/posts/gem-seller-registration-kaise-kare) — Seller onboarding guide
-- [GeM Seller Dashboard Kaise Use Kare](/posts/gem-seller-dashboard-kaise-use-kare) — Dashboard tabs and features overview
-- [GeM Aadhaar Link Kaise Kare](/posts/gem-aadhaar-link-kaise-kare) — Profile Aadhaar verification steps
-- [GeM DSC Registration Kaise Kare](/posts/gem-dsc-registration-kaise-kare) — Digital signature token setup
-- [GeM Tender Kaise Search Kare](/posts/gem-tender-kaise-search-kare) — Finding relevant bids
-- [GeM Par Product List Kaise Kare](/posts/gem-product-list-kaise-kare) — Uploading product catalogues
-- [GeM First Tender Kaise Jeete](/posts/gem-first-tender-kaise-jeete) — L1 bidding strategies
-- [GeM Portal Tutorial Hindi](/posts/gem-portal-tutorial-hindi) — Complete beginner guide
-- [GeM Seller Banne Ke Fayde](/posts/gem-seller-banne-ke-fayde) — Business growth benefits
+- [GeM Registration Kaise Kare](/knowledge/gem-registration/gem-registration-kaise-kare) — Basic account setup walkthrough
+- [GeM Par Seller Registration Kaise Kare](/knowledge/gem-registration/gem-seller-registration-kaise-kare) — Seller onboarding guide
+- [GeM Seller Dashboard Kaise Use Kare](/knowledge/gem-registration/gem-seller-dashboard-kaise-use-kare) — Dashboard tabs and features overview
+- [GeM Aadhaar Link Kaise Kare](/knowledge) — Profile Aadhaar verification steps
+- [GeM DSC Registration Kaise Kare](/knowledge) — Digital signature token setup
+- [GeM Tender Kaise Search Kare](/knowledge) — Finding relevant bids
+- [GeM Par Product List Kaise Kare](/knowledge) — Uploading product catalogues
+- [GeM First Tender Kaise Jeete](/knowledge) — L1 bidding strategies
+- [GeM Portal Tutorial Hindi](/knowledge) — Complete beginner guide
+- [GeM Seller Banne Ke Fayde](/knowledge) — Business growth benefits
 
 ---
 

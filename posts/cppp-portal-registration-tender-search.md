@@ -4,7 +4,7 @@ summary: "CPPP (Central Public Procurement Portal) par online vendor enrollment 
 date: "2026-07-20"
 updatedDate: "2026-07-20"
 author: "SahayakAI Editorial Team"
-category: "Government Procurement Hub"
+category: "government-procurement"
 layout: "ClusterArticle"
 reviewer: "Procurement Desk"
 version: "1.0"
@@ -337,8 +337,8 @@ Nahi. Bid submission deadline complete hone ke baad withdraw/modify option freez
 
 Apne bids ko verify aur compliance check karne ke liye SahayakAI ke free utility tools try karein:
 
-* ✅ **[AI Bid Search Tool →](https://sahayakai.co.in/tools/bid-search)**: Keywords ya product list enter karke active CPPP and GeM tenders trace karein.
-* ✅ **[AI Tender Document Analyzer →](https://sahayakai.co.in/tools/bid-analyzer)**: Apne technical tender documents ki deviation check karein.
+* ✅ **[AI Bid Search Tool →](/tools/tender-search)**: Keywords ya product list enter karke active CPPP and GeM tenders trace karein.
+* ✅ **[AI Tender Document Analyzer →](/tools/pdf-analyzer)**: Apne technical tender documents ki deviation check karein.
 
 ---
 

@@ -4,7 +4,7 @@ summary: "Indian Railways e-Procurement System (IREPS) portal par contractor reg
 date: "2026-07-20"
 updatedDate: "2026-07-20"
 author: "SahayakAI Editorial Team"
-category: "Government Procurement Hub"
+category: "government-procurement"
 layout: "ClusterArticle"
 reviewer: "Procurement Desk"
 version: "1.0"
@@ -336,8 +336,8 @@ Bidding deadline se pehle bid edit/withdraw selection toggle active rehta hai, d
 
 Apne procurement bids aur railway tenders requirements to analyze karne ke liye hamare advanced AI utilities try karein:
 
-* ✅ **[AI Bid Search Tool →](https://sahayakai.co.in/tools/bid-search)**: Zonal railways tenders aur active CPPP postings trace generator.
-* ✅ **[AI Bid Analyzer Tool →](https://sahayakai.co.in/tools/bid-analyzer)**: Technical evaluation rules checklist checker.
+* ✅ **[AI Bid Search Tool →](/tools/tender-search)**: Zonal railways tenders aur active CPPP postings trace generator.
+* ✅ **[AI Bid Analyzer Tool →](/tools/pdf-analyzer)**: Technical evaluation rules checklist checker.
 
 ---
 

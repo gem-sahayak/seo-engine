@@ -3,7 +3,7 @@ title: "Step-by-Step Guide: Setting Up Free WhatsApp Alerts for Government Tende
 summary: "Manually checking the government e marketplace portal daily is exhausting. Learn how to get instant WhatsApp notifications for active bids matching your state, city, and keywords."
 date: "2026-07-13"
 author: "SahayakAI Team"
-category: "Automation"
+category: "gem-bidding"
 ---
 
 ## Why are manual bid searches on the Gem portal inefficient?

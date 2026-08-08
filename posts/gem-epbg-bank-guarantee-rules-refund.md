@@ -223,16 +223,16 @@ Nahi. Ek baar bank ne guarantee status generate kar diya aur validity cycle trig
 ---
 
 ## 12. Related Knowledge Articles
-*   [How to Claim EMD Exemption on GeM Portal Bids](https://sahayakai.co.in/blog/how-to-claim-emd-exemption-gem-portal-bids)
-*   [GeM Portal Registration Documents Required for Partnership Firms](https://sahayakai.co.in/blog/partnership-docs)
-*   [GeM Bidding Rules Handbook 2026](https://sahayakai.co.in/blog/gem-bidding-rules-handbook)
+*   [How to Claim EMD Exemption on GeM Portal Bids](/knowledge/compliance-policy/how-to-claim-emd-exemption-gem-portal-bids)
+*   [GeM Portal Registration Documents Required for Partnership Firms](/knowledge/gem-registration/partnership-docs)
+*   [GeM Bidding Rules Handbook 2026](/knowledge/gem-bidding/gem-bidding-rules-handbook)
 
 ---
 
 ## 13. Your Next Knowledge Journey
-*   **Step 1:** Agar aapne bid participate karte waqt Earnest Money rules nahi padhe, toh [EMD Exemption Rules Guide](https://sahayakai.co.in/blog/how-to-claim-emd-exemption-gem-portal-bids) zaroor check karein.
-*   **Step 2:** Procurement calculations ke liye hamara [GeM Bidding Fees Structure guide](https://sahayakai.co.in/blog/fees-explained) check karein.
-*   **Step 3:** Profile verification problems ko handle karne ke liye padhein hamara [Udyam Aadhaar error resolution guide](https://sahayakai.co.in/blog/udyam-error).
+*   **Step 1:** Agar aapne bid participate karte waqt Earnest Money rules nahi padhe, toh [EMD Exemption Rules Guide](/knowledge/compliance-policy/how-to-claim-emd-exemption-gem-portal-bids) zaroor check karein.
+*   **Step 2:** Procurement calculations ke liye hamara [GeM Bidding Fees Structure guide](/knowledge/gem-registration/fees-explained) check karein.
+*   **Step 3:** Profile verification problems ko handle karne ke liye padhein hamara [Udyam Aadhaar error resolution guide](/knowledge/gem-registration/udyam-error).
 
 ---
 
@@ -242,15 +242,15 @@ Apne bidding formats aur document compliance checking ko automatic check karne k
 
 ### ✅ AI Bid Search & Alerts
 Hinglish parameters se daily active tenders find karein aur WhatsApp notification updates paayein.  
-[Search Bids Free →](https://sahayakai.co.in/tools/bid-search)
+[Search Bids Free →](/tools/tender-search)
 
 ### ✅ ePBG Validity Calculator
 Apne contract date inputs dekar required standard validity periods seconds me extract karein.  
-[Calculate BG Validity →](https://sahayakai.co.in/tools/epbg-validity-calculator)
+[Calculate BG Validity →](/tools)
 
 ### ✅ Bid Analyzer Tool
 Upload tender documents PDF files and automatically extract L1 and security guarantee evaluation checklist criteria.  
-[Check Bid Rules →](https://sahayakai.co.in/tools/bid-analyzer)
+[Check Bid Rules →](/tools/pdf-analyzer)
 
 ---
 

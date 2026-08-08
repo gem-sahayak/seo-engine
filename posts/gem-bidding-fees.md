@@ -54,4 +54,4 @@ For successful orders, sellers pay a transaction fee based on the total order va
 1.  **Orders up to ₹5 Lakhs:** No transaction charges.
 2.  **Orders above ₹5 Lakhs:** A dynamic percentage fee based on final contract value.
 
-To calculate these percentages accurately and factor them into your final bidding quotes, try our [GeM L1 Margin Calculator](/tools/l1-margin-calculator).
+To calculate these percentages accurately and factor them into your final bidding quotes, try our [GeM L1 Margin Calculator](/tools).

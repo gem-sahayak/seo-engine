@@ -319,9 +319,9 @@ Profile section me ja kar account settings se deactivation request raise karein 
 
 ## Related Knowledge Articles
 
-- [GeM Profile Update Kaise Kare](/posts/gem-profile-update-kaise-kare) — Step-by-step profile editing guide.
-- [Partnership Docs for GeM](/posts/partnership-docs) — Essential documents list for partnership firms.
-- [Profile Completion Guide](/posts/profile-completion) — Tips to achieve a 100% verification score on the portal.
+- [GeM Profile Update Kaise Kare](/knowledge/gem-registration/gem-profile-update-kaise-kare) — Step-by-step profile editing guide.
+- [Partnership Docs for GeM](/knowledge/gem-registration/partnership-docs) — Essential documents list for partnership firms.
+- [Profile Completion Guide](/knowledge/gem-registration/profile-completion) — Tips to achieve a 100% verification score on the portal.
 
 ---
 

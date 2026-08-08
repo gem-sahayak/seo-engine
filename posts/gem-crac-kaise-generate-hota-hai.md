@@ -329,9 +329,9 @@ Seller dashboard me 'Orders' tab par click karein, order number search karein, a
 
 ## Related Knowledge Articles
 
-- [GeM Consignee Receipt Process: PRC Step-by-Step Guide](/posts/gem-consignee-receipt-process) - Provisional Receipt Certificate generation rule guide.
-- [GeM Payment Kab Milta Hai? Payment SLAs Explained](/posts/gem-payment-kab-milta-hai) - Guide on payment clearance timelines.
-- [GeM Order Delivery Update Kaise Kare? Portal Steps](/posts/gem-order-delivery-update-kaise-kare) - Steps to update dispatch on seller portal.
+- [GeM Consignee Receipt Process: PRC Step-by-Step Guide](/knowledge/catalog-management/gem-consignee-receipt-process) - Provisional Receipt Certificate generation rule guide.
+- [GeM Payment Kab Milta Hai? Payment SLAs Explained](/knowledge/catalog-management/gem-payment-kab-milta-hai) - Guide on payment clearance timelines.
+- [GeM Order Delivery Update Kaise Kare? Portal Steps](/knowledge/catalog-management/gem-order-delivery-update-kaise-kare) - Steps to update dispatch on seller portal.
 
 ---
 

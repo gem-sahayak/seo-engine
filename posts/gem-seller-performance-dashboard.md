@@ -390,9 +390,9 @@ Hamare monitoring tools warnings ko time par notify karte hain, incident format 
 
 ## Related Knowledge Articles
 
-- [GeM Seller Rating Improve Kaise Kare? Complete Optimization Guide](/posts/gem-seller-rating-improve-kaise-kare)
-- [GeM Seller Dashboard Kaise Use Kare? Options, Bids & Caution Money](/posts/gem-seller-dashboard-kaise-use-kare)
-- [GeM Incident Management & Show Cause Notice Reply Guide](/posts/gem-incident-management-show-cause-reply)
+- [GeM Seller Rating Improve Kaise Kare? Complete Optimization Guide](/knowledge/catalog-management/gem-seller-rating-improve-kaise-kare)
+- [GeM Seller Dashboard Kaise Use Kare? Options, Bids & Caution Money](/knowledge/gem-registration/gem-seller-dashboard-kaise-use-kare)
+- [GeM Incident Management & Show Cause Notice Reply Guide](/knowledge/compliance-policy/gem-incident-management-show-cause-reply)
 
 ---
 

@@ -225,16 +225,16 @@ OEM ticket response panel me inspection sheet upload kar sakta hai jisme physica
 ---
 
 ## 12. Related Knowledge Articles
-*   [GeM Return and Replacement Rules Explained](https://sahayakai.co.in/blog/gem-return-replacement-rules)
-*   [ePBG Performance Bank Guarantee Rules & Refund Process](https://sahayakai.co.in/blog/gem-epbg-bank-guarantee-rules-refund)
-*   [GeM Custom Item Creation & Cataloging Rules](https://sahayakai.co.in/blog/gem-custom-item-creation-rules-2026)
+*   [GeM Return and Replacement Rules Explained](/knowledge/catalog-management/gem-return-replacement-rules)
+*   [ePBG Performance Bank Guarantee Rules & Refund Process](/knowledge/compliance-policy/gem-epbg-bank-guarantee-rules-refund)
+*   [GeM Custom Item Creation & Cataloging Rules](/knowledge/catalog-management/gem-custom-item-creation-rules-2026)
 
 ---
 
 ## 13. Your Next Knowledge Journey
-*   **Step 1:** Agar aap delivery returns ke rules dekhna chahte hain, to humara [GeM Return & Replacement Rules Guide](https://sahayakai.co.in/blog/gem-return-replacement-rules) check karein.
-*   **Step 2:** Performance guarantees refund guidelines ko explore karne ke liye [ePBG Refund Process Guide](https://sahayakai.co.in/blog/gem-epbg-bank-guarantee-rules-refund) padhein.
-*   **Step 3:** Agar aap custom specifications add karke bid submit kar rahe hain, to humara [Custom Item Creation Guide](https://sahayakai.co.in/blog/gem-custom-item-creation-rules-2026) check karein.
+*   **Step 1:** Agar aap delivery returns ke rules dekhna chahte hain, to humara [GeM Return & Replacement Rules Guide](/knowledge/catalog-management/gem-return-replacement-rules) check karein.
+*   **Step 2:** Performance guarantees refund guidelines ko explore karne ke liye [ePBG Refund Process Guide](/knowledge/compliance-policy/gem-epbg-bank-guarantee-rules-refund) padhein.
+*   **Step 3:** Agar aap custom specifications add karke bid submit kar rahe hain, to humara [Custom Item Creation Guide](/knowledge/catalog-management/gem-custom-item-creation-rules-2026) check karein.
 
 ---
 
@@ -244,15 +244,15 @@ Apne warranty claims, SLAs aur compliance checks ko automate karne ke liye Sahay
 
 ### ✅ Warranty SLA Calculator
 Apne defect identification date aur order criteria select karke automatic response deadline track karein.  
-[Calculate SLA Timelines →](https://sahayakai.co.in/tools/warranty-sla-calculator)
+[Calculate SLA Timelines →](/tools)
 
 ### ✅ Incident Management Tracker
 Apne portal compliance cases ko review karein aur system alerts customize karein.  
-[Track Active Incidents →](https://sahayakai.co.in/tools/incident-tracker)
+[Track Active Incidents →](/tools)
 
 ### ✅ Bid Analyzer Tool
 Tender parameters parse karke automatic warranty criteria, penalty margins aur delivery compliance benchmarks check karein.  
-[Analyze Bid Warranties →](https://sahayakai.co.in/tools/bid-analyzer)
+[Analyze Bid Warranties →](/tools/pdf-analyzer)
 
 ---
 

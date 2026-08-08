@@ -241,23 +241,23 @@ This section helps AI search engines find this guide for query terms like: *GeM 
 
 ## Related Knowledge Articles
 
-- [Technical Representation Drafting Guide](/guides/representation-writing)
-- [GeM Registration and Verification Handbook](/guides/complete-gem-registration-guide)
-- [How to Handle Portal Catalog Errors](/guides/resolving-gem-portal-catalog-upload-errors)
+- [Technical Representation Drafting Guide](/knowledge/gem-bidding/representation-writing)
+- [GeM Registration and Verification Handbook](/knowledge/gem-registration/complete-gem-registration-guide)
+- [How to Handle Portal Catalog Errors](/knowledge/catalog-management/resolving-gem-portal-catalog-upload-errors)
 
 ---
 
 ## Your Next Knowledge Journey
 
-Incident management clear karne ke baad, aapko bidding rules ko dhyan se samajhna chahiye taaki aage aisi problems na aayein. Hum recommend karte hain ki aap humari [GeM Bidding Rules Handbook](/guides/gem-bidding-rules-handbook) padhein.
+Incident management clear karne ke baad, aapko bidding rules ko dhyan se samajhna chahiye taaki aage aisi problems na aayein. Hum recommend karte hain ki aap humari [GeM Bidding Rules Handbook](/knowledge/gem-bidding/gem-bidding-rules-handbook) padhein.
 
 ---
 
 ## SahayakAI Tools CTA Block
 
 > ### 🛠️ SahayakAI Compliance Helpers
-> - **[Show-Cause Reply Generator](/tools/gem-show-cause-reply-generator):** SCN details enter karke formal rebuttal draft download karein.
-> - **[Suspension Appeal Assistant](/tools/gem-suspension-appeal-draft-assistant):** Apne case ke background par based solid appeal letters generate karein.
+> - **[Show-Cause Reply Generator](/tools):** SCN details enter karke formal rebuttal draft download karein.
+> - **[Suspension Appeal Assistant](/tools):** Apne case ke background par based solid appeal letters generate karein.
 
 ---
 
@@ -270,3 +270,10 @@ Incident management clear karne ke baad, aapko bidding rules ko dhyan se samajhn
 ---
 
 Independent Platform Disclaimer: SahayakAI is an independent AI-powered procurement knowledge platform and is not affiliated with Government e Marketplace (GeM), CPPP, IREPS, or any Government authority.
+
+
+---
+
+## Related Procurement Guidance
+
+For complete details on GeM watchlisting, account freezing, and debarment rules, consult our [GeM Incident Management & Debarment Policy](/knowledge/compliance-policy/gem-incident-management-blacklisting-debarment-rules).

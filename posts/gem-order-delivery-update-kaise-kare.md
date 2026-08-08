@@ -330,9 +330,9 @@ Sellers ko delivery status update time par karne ke benefits aur late karne ke r
 
 ## Related Knowledge Articles
 
-- [GeM Consignee Receipt Process: PRC & CRAC Guidelines](/posts/gem-consignee-receipt-process)
-- [GeM Order Accept Kaise Kare? SLA Timelines & Contract Rules](/posts/gem-order-accept-kaise-kare)
-- [GeM Order Cancellation Rules: Delay Penalties & Blacklisting Risk Guidelines](/posts/gem-order-cancel-rules)
+- [GeM Consignee Receipt Process: PRC & CRAC Guidelines](/knowledge/catalog-management/gem-consignee-receipt-process)
+- [GeM Order Accept Kaise Kare? SLA Timelines & Contract Rules](/knowledge/catalog-management/gem-order-accept-kaise-kare)
+- [GeM Order Cancellation Rules: Delay Penalties & Blacklisting Risk Guidelines](/knowledge/catalog-management/gem-order-cancel-rules)
 
 ---
 

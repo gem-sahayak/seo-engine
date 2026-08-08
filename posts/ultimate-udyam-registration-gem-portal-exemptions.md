@@ -3,7 +3,7 @@ title: "The Ultimate Guide to Udyam Registration & MSME Exemptions on Gem Portal
 summary: "Claim tender fee waivers, EMD exemptions, and price matching benefits. Learn how to connect your Udyam certificate to your Gem portal seller account."
 date: "2026-07-11"
 author: "SahayakAI Team"
-category: "Compliance"
+category: "gem-registration"
 ---
 
 ## What is the benefit of Udyam Registration on the Gem portal?

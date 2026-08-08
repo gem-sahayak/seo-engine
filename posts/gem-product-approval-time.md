@@ -320,8 +320,8 @@ Yes. SahayakAI tools jaise AI Catalog Dashboard aur HSN Finder tools parameters 
 
 Apne products ki details error-free verify karne aur fast approval pane ke liye hamare free tools use karein:
 
-* ✅ **[AI Catalog Dashboard Tool →](https://sahayakai.co.in/tools/ai-catalog-dashboard)**: Easy product metadata parameters generator.
-* ✅ **[HSN Code Finder Tool →](https://sahayakai.co.in/tools/hsn-code-finder)**: Complete GST rate mappings search.
+* ✅ **[AI Catalog Dashboard Tool →](/tools/catalog-assistant)**: Easy product metadata parameters generator.
+* ✅ **[HSN Code Finder Tool →](/tools)**: Complete GST rate mappings search.
 
 ---
 

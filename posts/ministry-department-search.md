@@ -53,4 +53,4 @@ Government buyers on the portal are grouped into:
 *   Input the target ministry name.
 *   The dashboard will reload to display only bids published by that ministry.
 
-To understand how these ministries evaluate single bids, refer to our [GeM Single Bid Evaluation Rules](/guides/single-bid-compliance) guide.
+To understand how these ministries evaluate single bids, refer to our [GeM Single Bid Evaluation Rules](/knowledge/gem-bidding/single-bid-compliance) guide.

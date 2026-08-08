@@ -3,7 +3,7 @@ title: "Top 10 Gem Bidding Mistakes That Cost MSMEs Government Tenders"
 summary: "Government tenders have strict compliance criteria. Avoid standard documentation slip-ups, Turnover eligibility failures, Make in India certificate errors, and L1 calculation traps."
 date: "2026-06-17"
 author: "SahayakAI Team"
-category: "Compliance"
+category: "gem-bidding"
 ---
 
 ## Why are so many MSME bids rejected technically on the Gem Portal?

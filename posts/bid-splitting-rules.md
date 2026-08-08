@@ -57,4 +57,4 @@ While splitting to avoid bidding is prohibited, buyers can legitimately split or
 *   Ensure your prices are competitive to fall within the L1 + 15% band if you qualify as an MSE.
 *   Do not accept or encourage buyers asking to split invoices to stay within direct purchase limits. It can lead to compliance audits.
 
-To calculate compliance boundaries and optimal pricing, use our [GeM L1 Margin Calculator](/tools/l1-margin-calculator).
+To calculate compliance boundaries and optimal pricing, use our [GeM L1 Margin Calculator](/tools).

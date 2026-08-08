@@ -238,11 +238,11 @@ OEM authorization/MAF us partner ke naam par ho sakta hai jo specific product su
 
 ## 🔗 Related Articles
 
-*   [GeM Bidding Rules & Compliance Handbook (2026)](https://sahayakai.co.in/blog/gem-bidding-rules-handbook)
-*   [How to Claim EMD Exemption on GeM Portal Bids](https://sahayakai.co.in/blog/how-to-claim-emd-exemption-gem-portal-bids)
-*   [GeM Registration Documents Required for Partnership Firms](https://sahayakai.co.in/blog/partnership-docs)
-*   [Understanding Single Bid Compliance on GeM Portal](https://sahayakai.co.in/blog/single-bid-compliance)
-*   [Common Errors and Rejection Reasons in GeM Tenders](https://sahayakai.co.in/blog/common-errors)
+*   [GeM Bidding Rules & Compliance Handbook (2026)](/knowledge/gem-bidding/gem-bidding-rules-handbook)
+*   [How to Claim EMD Exemption on GeM Portal Bids](/knowledge/compliance-policy/how-to-claim-emd-exemption-gem-portal-bids)
+*   [GeM Registration Documents Required for Partnership Firms](/knowledge/gem-registration/partnership-docs)
+*   [Understanding Single Bid Compliance on GeM Portal](/knowledge/gem-bidding/single-bid-compliance)
+*   [Common Errors and Rejection Reasons in GeM Tenders](/knowledge/gem-registration/common-errors)
 
 ---
 
@@ -259,11 +259,11 @@ OEM authorization/MAF us partner ke naam par ho sakta hai jo specific product su
 Apne JV aur Consortium bids ko error-free banane ke liye hamare advanced tools ka use karein:
 
 *   **AI Tender Document Analyzer:** Apne tender ki ATC PDF copy upload karein aur automatically check karein ki JV/Consortium eligibility rules aur EMD requirements kya hain.
-    [Try Demo →](https://sahayakai.co.in/tools/bid-analyzer)
+    [Try Demo →](/tools/pdf-analyzer)
 *   **L1 Margin Calculator:** Partners ke beech cost bifurcation aur profit margin analyze karne ke liye hamara calculator use karein.
-    [Try Demo →](https://sahayakai.co.in/tools/l1-margin-calculator)
+    [Try Demo →](/tools)
 *   **GeM Bid Search:** Apni specific industry ke active tenders ko Hinglish me query karke search karein.
-    [Try Demo →](https://sahayakai.co.in/tools/bid-search)
+    [Try Demo →](/tools/tender-search)
 
 ---
 

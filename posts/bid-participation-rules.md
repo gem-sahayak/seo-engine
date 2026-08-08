@@ -65,4 +65,4 @@ Under official public procurement guidelines, buyers are encouraged to waive pri
 > [!NOTE]
 > This exemption is not automatic for every bid. Check the bid document clauses to confirm if the buyer has allowed MSE/Startup exemptions for that specific tender.
 
-For registration setup details, refer back to the [Complete GeM Registration Manual](/guides/complete-gem-registration-guide).
+For registration setup details, refer back to the [Complete GeM Registration Manual](/knowledge/gem-registration/complete-gem-registration-guide).

@@ -4,7 +4,7 @@ summary: "A comprehensive guide on What is EMD in GeM"
 date: "2026-07-20"
 updatedDate: "2026-07-20"
 author: "SahayakAI Expert"
-category: "Procurement"
+category: "compliance-policy"
 layout: "post"
 reviewer: "Senior Procurement Consultant"
 version: "1.0"
@@ -98,3 +98,10 @@ Sign up for SahayakAI for AI-assisted bidding!
 
 Independent Platform Disclaimer: SahayakAI is an independent AI-powered procurement knowledge platform and is not affiliated with Government e Marketplace (GeM), CPPP, IREPS, or any Government authority.
 \n\n
+
+
+---
+
+## Related Procurement Guidance
+
+To learn how MSMEs can claim EMD waivers online, check our step-by-step guide on [How to Claim EMD Exemption on GeM](/knowledge/compliance-policy/how-to-claim-emd-exemption-gem-portal-bids).

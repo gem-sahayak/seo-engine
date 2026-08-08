@@ -328,9 +328,9 @@ Consignee signature verification biometric ya OTP based validation UIDAI issues 
 
 ## Related Knowledge Articles
 
-- [GeM CRAC Kaise Generate Hota Hai](/posts/gem-crac-kaise-generate-hota-hai) — Step-by-step CRAC generation tutorial.
-- [GeM Order Delivery Update Kaise Kare](/posts/gem-order-delivery-update-kaise-kare) — How to update shipment details and delivery dates.
-- [GeM Invoice Generate Kaise Kare](/posts/gem-invoice-generate-kaise-kare) — Generating tax invoices after successful delivery.
+- [GeM CRAC Kaise Generate Hota Hai](/knowledge/catalog-management/gem-crac-kaise-generate-hota-hai) — Step-by-step CRAC generation tutorial.
+- [GeM Order Delivery Update Kaise Kare](/knowledge/catalog-management/gem-order-delivery-update-kaise-kare) — How to update shipment details and delivery dates.
+- [GeM Invoice Generate Kaise Kare](/knowledge/catalog-management/gem-invoice-generate-kaise-kare) — Generating tax invoices after successful delivery.
 
 ---
 

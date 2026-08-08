@@ -337,9 +337,9 @@ Nahi. Draft state settings parameters remove change logic settings dynamic updat
 
 ## Related Knowledge Articles
 
-- [GeM Payment Kab Milta Hai? Terms & Deadlines](/posts/gem-payment-kab-milta-hai) — Rules for payments timelines under GTC guidelines.
-- [GeM Payment Status Kaise Check Kare? PFMS & Bills Tracking](/posts/gem-payment-status-kaise-check-kare) — Tracking steps for invoice payments status.
-- [GeM Consignee Receipt (CRAC) Process Step-by-Step](/posts/gem-consignee-receipt-process) — Comprehensive flow details of buyer CRAC verification.
+- [GeM Payment Kab Milta Hai? Terms & Deadlines](/knowledge/catalog-management/gem-payment-kab-milta-hai) — Rules for payments timelines under GTC guidelines.
+- [GeM Payment Status Kaise Check Kare? PFMS & Bills Tracking](/knowledge/catalog-management/gem-payment-status-kaise-check-kare) — Tracking steps for invoice payments status.
+- [GeM Consignee Receipt (CRAC) Process Step-by-Step](/knowledge/catalog-management/gem-consignee-receipt-process) — Comprehensive flow details of buyer CRAC verification.
 
 ---
 

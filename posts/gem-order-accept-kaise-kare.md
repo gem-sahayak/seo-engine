@@ -322,9 +322,9 @@ Nahi, auto-cancelled order ko dubara reactivate nahi kiya ja sakta. Buyer ko sam
 
 ## Related Knowledge Articles
 
-- [GeM Order Cancellation Rules & Penalties](/posts/gem-order-cancel-rules) — Detailed terms on order cancellation rules.
-- [GeM Portal Par Order Kaise Milega? Step-by-Step Guide](/posts/gem-portal-par-order-kaise-milega) — Methods to receive active orders.
-- [GeM Portal Direct Purchase Limit Rules 2026](/posts/gem-portal-direct-purchase-limit-rules-2026) — Limit constraints of direct orders.
+- [GeM Order Cancellation Rules & Penalties](/knowledge/catalog-management/gem-order-cancel-rules) — Detailed terms on order cancellation rules.
+- [GeM Portal Par Order Kaise Milega? Step-by-Step Guide](/knowledge) — Methods to receive active orders.
+- [GeM Portal Direct Purchase Limit Rules 2026](/knowledge/compliance-policy/gem-portal-direct-purchase-limit-rules-2026) — Limit constraints of direct orders.
 
 ---
 

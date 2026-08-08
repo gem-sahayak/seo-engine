@@ -276,9 +276,9 @@ Jo bills naya bank profile link hone aur PFMS verification complete hone se pehl
 
 ## Related Knowledge Articles
 
-* **[GeM Invoice Generate Kaise Kare](/posts/gem-invoice-generate-kaise-kare):** Detailed guide on preparing tax invoices and bills on GeM.
-* **[GeM Payment Kab Milta Hai](/posts/gem-payment-kab-milta-hai):** Detailed analysis of payment cycles, terms, and auto-CRAC guidelines.
-* **[GeM ePBG Bank Guarantee Rules & Refund Process](/posts/gem-epbg-bank-guarantee-rules-refund):** Rules on bank guarantees and online SFMS verification.
+* **[GeM Invoice Generate Kaise Kare](/knowledge/catalog-management/gem-invoice-generate-kaise-kare):** Detailed guide on preparing tax invoices and bills on GeM.
+* **[GeM Payment Kab Milta Hai](/knowledge/catalog-management/gem-payment-kab-milta-hai):** Detailed analysis of payment cycles, terms, and auto-CRAC guidelines.
+* **[GeM ePBG Bank Guarantee Rules & Refund Process](/knowledge/compliance-policy/gem-epbg-bank-guarantee-rules-refund):** Rules on bank guarantees and online SFMS verification.
 
 ---
 

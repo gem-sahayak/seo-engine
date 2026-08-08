@@ -351,9 +351,9 @@ Iska matlab hai ki buyer department ne bill approve kar diya hai aur billing tok
 
 ## Related Knowledge Articles
 
-- [GeM Invoice Generate Kaise Kare? Step-by-Step Process](/posts/gem-invoice-generate-kaise-kare) — Invoice creation and verification guide.
-- [GeM Payment Status Kaise Check Kare? Live Tracking Guide](/posts/gem-payment-status-kaise-check-kare) — Status checks and PFMS token verification.
-- [GeM CRAC Kaise Generate Hota Hai? System Rules & Timelines](/posts/gem-crac-kaise-generate-hota-hai) — Inspection terms and auto-CRAC guidelines.
+- [GeM Invoice Generate Kaise Kare? Step-by-Step Process](/knowledge/catalog-management/gem-invoice-generate-kaise-kare) — Invoice creation and verification guide.
+- [GeM Payment Status Kaise Check Kare? Live Tracking Guide](/knowledge/catalog-management/gem-payment-status-kaise-check-kare) — Status checks and PFMS token verification.
+- [GeM CRAC Kaise Generate Hota Hai? System Rules & Timelines](/knowledge/catalog-management/gem-crac-kaise-generate-hota-hai) — Inspection terms and auto-CRAC guidelines.
 
 ---
 

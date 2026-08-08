@@ -223,23 +223,23 @@ Understanding this calculation helps GeM sellers diagnose rating drop causes: wh
 
 ## Related Knowledge Articles
 
-- [GeM Seller Dashboard Complete Usage Guide](/posts/gem-seller-dashboard-kaise-use-kare)
-- [How to Reply to GeM Show-Cause Notice](/posts/gem-incident-management-show-cause-reply)
-- [GeM Order Cancellation Rules & Penalties](/posts/gem-order-cancel-rules)
+- [GeM Seller Dashboard Complete Usage Guide](/knowledge/gem-registration/gem-seller-dashboard-kaise-use-kare)
+- [How to Reply to GeM Show-Cause Notice](/knowledge/compliance-policy/gem-incident-management-show-cause-reply)
+- [GeM Order Cancellation Rules & Penalties](/knowledge/catalog-management/gem-order-cancel-rules)
 
 ---
 
 ## Your Next Knowledge Journey
 
-Rating improve karne ke baad orders ko securely handle karne ke liye humari [GeM Order Accept Kaise Kare](/posts/gem-order-accept-kaise-kare) guide padhein.
+Rating improve karne ke baad orders ko securely handle karne ke liye humari [GeM Order Accept Kaise Kare](/knowledge/catalog-management/gem-order-accept-kaise-kare) guide padhein.
 
 ---
 
 ## SahayakAI Tools CTA Block
 
 > ### 🛠️ SahayakAI Performance Tools
-> - **[GeM Rating Predictor](/tools/gem-rating-predictor):** Apne pending deliveries aur active incidents enter karke forecasted star rating check karein.
-> - **[Delivery Compliance Tracker](/tools/gem-delivery-compliance-tracker):** Apne upcoming order deadlines ko manage karke warnings avoid karein.
+> - **[GeM Rating Predictor](/tools):** Apne pending deliveries aur active incidents enter karke forecasted star rating check karein.
+> - **[Delivery Compliance Tracker](/tools):** Apne upcoming order deadlines ko manage karke warnings avoid karein.
 
 ---
 

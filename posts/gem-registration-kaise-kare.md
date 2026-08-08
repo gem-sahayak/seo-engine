@@ -5,7 +5,7 @@ slug: "gem-registration-kaise-kare"
 date: "2026-07-20"
 lastUpdated: "2026-07-20"
 author: "SahayakAI Editorial Team"
-category: "GeM Seller Onboarding"
+category: "gem-registration"
 readingTime: "12 min read"
 difficulty: "Beginner"
 verifiedFor: "2026 Procurement Rules"
@@ -237,11 +237,11 @@ Registration ke baad sabse pehle apni Profile 100% complete karein, apni Brand/P
 
 ## Related Articles & Next Steps
 
-- [GeM Seller Registration Kaise Kare](/posts/gem-seller-registration-kaise-kare) — Comprehensive seller onboarding walkthrough
-- [GeM Login Kaise Kare](/posts/gem-login-kaise-kare) — Login issues and password reset troubleshooting
-- [GeM Aadhaar Link Kaise Kare](/posts/gem-aadhaar-link-kaise-kare) — Step-by-step Aadhaar verification guide
-- [GeM DSC Registration Kaise Kare](/posts/gem-dsc-registration-kaise-kare) — Digital signature token setup
-- [GeM Seller Dashboard Kaise Use Kare](/posts/gem-seller-dashboard-kaise-use-kare) — Full dashboard tabs guide
+- [GeM Seller Registration Kaise Kare](/knowledge/gem-registration/gem-seller-registration-kaise-kare) — Comprehensive seller onboarding walkthrough
+- [GeM Login Kaise Kare](/knowledge/gem-registration/gem-login-kaise-kare) — Login issues and password reset troubleshooting
+- [GeM Aadhaar Link Kaise Kare](/knowledge) — Step-by-step Aadhaar verification guide
+- [GeM DSC Registration Kaise Kare](/knowledge) — Digital signature token setup
+- [GeM Seller Dashboard Kaise Use Kare](/knowledge/gem-registration/gem-seller-dashboard-kaise-use-kare) — Full dashboard tabs guide
 
 ---
 
@@ -385,3 +385,10 @@ Registration ke baad sabse pehle apni Profile 100% complete karein, apni Brand/P
   ]
 }
 </script>
+
+
+---
+
+## Related Procurement Guidance
+
+If you encounter Udyam validation errors during seller profile setup, read our [Udyam Verification Error Fix Guide](/knowledge/gem-registration/udyam-error).

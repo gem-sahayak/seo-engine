@@ -404,9 +404,9 @@ Portal protection ke liye 15-20 min bad system screen automatically logout ho ja
 
 ## Related Knowledge Articles
 
-- [GeM Login Kaise Kare? Complete Troubleshooting & Sign-In Guide (2026)](/posts/gem-login-kaise-kare)
-- [GeM Par Seller Registration Kaise Kare? Complete Guide (2026)](/posts/gem-seller-registration-kaise-kare)
-- [How to Complete Your GeM Seller Profile (100% Checklist)](/posts/profile-completion)
+- [GeM Login Kaise Kare? Complete Troubleshooting & Sign-In Guide (2026)](/knowledge/gem-registration/gem-login-kaise-kare)
+- [GeM Par Seller Registration Kaise Kare? Complete Guide (2026)](/knowledge/gem-registration/gem-seller-registration-kaise-kare)
+- [How to Complete Your GeM Seller Profile (100% Checklist)](/knowledge/gem-registration/profile-completion)
 
 ---
 

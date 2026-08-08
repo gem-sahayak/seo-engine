@@ -229,23 +229,23 @@ Yahan week fraction (jaise 3 din ka delay) ko bhi full week delay consider kiya 
 
 ## Related Knowledge Articles
 
-- [GeM Order Accept Kaise Kare: Step-by-Step Fulfillment Guide](/posts/gem-order-accept-kaise-kare)
-- [GeM Incident Management & Show-Cause Reply Drafting Format](/posts/gem-incident-management-show-cause-reply)
-- [Common Errors on GeM Portal & How to Avoid Them](/posts/common-errors)
+- [GeM Order Accept Kaise Kare: Step-by-Step Fulfillment Guide](/knowledge/catalog-management/gem-order-accept-kaise-kare)
+- [GeM Incident Management & Show-Cause Reply Drafting Format](/knowledge/compliance-policy/gem-incident-management-show-cause-reply)
+- [Common Errors on GeM Portal & How to Avoid Them](/knowledge/gem-registration/common-errors)
 
 ---
 
 ## Your Next Knowledge Journey
 
-Ab jag aapne order cancellation rules aur penalty structures ko samajh liya hai, toh agla step hai ki aap humari guide [GeM Bidding Rules & Compliance Handbook](/posts/gem-bidding-rules-handbook) check karein, jisse aap bidding level se hi compliant rahein aur incident triggers se bachein.
+Ab jag aapne order cancellation rules aur penalty structures ko samajh liya hai, toh agla step hai ki aap humari guide [GeM Bidding Rules & Compliance Handbook](/knowledge/gem-bidding/gem-bidding-rules-handbook) check karein, jisse aap bidding level se hi compliant rahein aur incident triggers se bachein.
 
 ---
 
 ## SahayakAI Tools CTA Block
 
 > ### 🛠️ SahayakAI Operational & Compliance Helpers
-> - **[GeM LD Penalty Calculator](/tools/gem-ld-penalty-calculator):** Apni delivery delay weeks aur item value enter karke potential Liquidated Damages penalty calculate karein.
-> - **[DP Extension Justification Builder](/tools/gem-dp-extension-draft-helper):** Buyer correspondence details dalkar letterhead ke liye dynamic request letter draft karein.
+> - **[GeM LD Penalty Calculator](/tools):** Apni delivery delay weeks aur item value enter karke potential Liquidated Damages penalty calculate karein.
+> - **[DP Extension Justification Builder](/tools):** Buyer correspondence details dalkar letterhead ke liye dynamic request letter draft karein.
 
 ---
 

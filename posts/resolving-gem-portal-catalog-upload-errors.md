@@ -3,7 +3,7 @@ title: "How to Resolve Gem Portal Catalog Upload Errors & Rejections"
 summary: "Are your product listings getting rejected by Gem portal administrators? Learn how to fix common listing errors, category mismatches, and catalog rejections."
 date: "2026-07-12"
 author: "SahayakAI Team"
-category: "Compliance"
+category: "catalog-management"
 ---
 
 ## Why are Gem portal catalogs rejected by administrators?

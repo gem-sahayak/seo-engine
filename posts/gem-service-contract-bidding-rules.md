@@ -309,9 +309,9 @@ Rules compliance strictly run karein: workers ko bank transfer se directly 7th d
 ## Related Knowledge Articles
 
 Naye rules aur insights ke liye in technical guides ko padhein:
-* [GeM Bidding Rules & Compliance Handbook (2026)](https://sahayakai.co.in/posts/gem-bidding-rules-handbook)
-* [How to Claim EMD Exemption on GeM Portal Bids](https://sahayakai.co.in/posts/how-to-claim-emd-exemption-gem-portal-bids)
-* [GeM Portal Direct Purchase Limit Rules & GFR Guidelines 2026](https://sahayakai.co.in/posts/gem-portal-direct-purchase-limit-rules-2026)
+* [GeM Bidding Rules & Compliance Handbook (2026)](/knowledge/gem-bidding/gem-bidding-rules-handbook)
+* [How to Claim EMD Exemption on GeM Portal Bids](/knowledge/compliance-policy/how-to-claim-emd-exemption-gem-portal-bids)
+* [GeM Portal Direct Purchase Limit Rules & GFR Guidelines 2026](/knowledge/compliance-policy/gem-portal-direct-purchase-limit-rules-2026)
 
 ---
 

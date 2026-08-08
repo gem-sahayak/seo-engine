@@ -3,7 +3,7 @@ title: "GeM Portal Direct Purchase Limit Rules & GFR Guidelines 2026"
 summary: "Explore the latest Direct Purchase limit rules, GFR 2017 amendments, and L1 comparison criteria for Indian public procurement."
 date: "2026-07-20"
 author: "SahayakAI Team"
-category: "Compliance & Government Policy"
+category: "compliance-policy"
 layout: "ClusterArticle"
 reviewer: "Procurement Desk"
 updatedDate: "2026-07-20"
@@ -85,19 +85,19 @@ Apne bids aur product catalog ko optimize karne ke liye humare free tools use ka
 
 ### ✅ AI Bid Search
 Hinglish queries enter karke active GeM tenders check karein.
-[Try Demo →](https://sahayakai.co.in/tools/bid-search)
+[Try Demo →](/tools/tender-search)
 
 ---
 
 ### ✅ AI Catalog Dashboard
 GeM catalog listing ke liye sahi path aur parameters generator tool.
-[Try Demo →](https://sahayakai.co.in/tools/ai-catalog-dashboard)
+[Try Demo →](/tools/catalog-assistant)
 
 ---
 
 ### ✅ AI Tender Document Analyzer
 Apna Tender PDF upload karke L1 evaluation criteria check karein.
-[Try Demo →](https://sahayakai.co.in/tools/bid-analyzer)
+[Try Demo →](/tools/pdf-analyzer)
 
 ---
 
@@ -137,11 +137,11 @@ Haan. Jab bhi koi buyer aapke catalog product par direct purchase checkout gener
 ---
 
 ## 🔗 Related Articles
-*   [How to Resolve Udyam Aadhaar Verification Failure on GeM](https://sahayakai.co.in/blog/udyam-error)
-*   [Top Bidding Mistakes MSMEs Make on GeM Portal Tenders](https://sahayakai.co.in/blog/gem-bidding-mistakes-msme-tenders)
-*   [How to Claim EMD Exemption on GeM Portal Bids](https://sahayakai.co.in/blog/how-to-claim-emd-exemption-gem-portal-bids)
-*   [GeM Registration Documents Required for Partnership Firms](https://sahayakai.co.in/blog/partnership-docs)
-*   [Resolving GeM Portal Catalog Upload Errors](https://sahayakai.co.in/blog/resolving-gem-portal-catalog-upload-errors)
+*   [How to Resolve Udyam Aadhaar Verification Failure on GeM](/knowledge/gem-registration/udyam-error)
+*   [Top Bidding Mistakes MSMEs Make on GeM Portal Tenders](/knowledge/gem-bidding/gem-bidding-mistakes-msme-tenders)
+*   [How to Claim EMD Exemption on GeM Portal Bids](/knowledge/compliance-policy/how-to-claim-emd-exemption-gem-portal-bids)
+*   [GeM Registration Documents Required for Partnership Firms](/knowledge/gem-registration/partnership-docs)
+*   [Resolving GeM Portal Catalog Upload Errors](/knowledge/catalog-management/resolving-gem-portal-catalog-upload-errors)
 
 ---
 

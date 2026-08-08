@@ -3,7 +3,7 @@ title: "GeM Portal Incident Management Policy: Complete Guide to Show Cause Noti
 summary: "Comprehensive master guide on GeM Portal Incident Management Policy (IMP). Learn how to handle Show Cause Notices, Watchlist flagging, account suspension, debarment rules under GFR 151, and step-by-step account unfreezing."
 date: "2026-07-24"
 author: "SahayakAI Expert Legal Desk"
-category: "Compliance & Government Policy"
+category: "compliance-policy"
 layout: "ClusterArticle"
 reviewer: "CTO & Procurement Legal Desk"
 updatedDate: "2026-07-24"

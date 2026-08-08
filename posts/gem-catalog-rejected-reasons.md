@@ -279,8 +279,8 @@ Hamesha catalog upload karne se pehle related category ke active market listings
 
 Apne products ke liye correct HSN Code aur GeM Catalog parameters automatically generate karne ke liye hamare free tools explore karein:
 
-* ✅ **[AI Catalog Dashboard Tool →](https://sahayakai.co.in/tools/ai-catalog-dashboard)**: Catalog parameters aur description generator.
-* ✅ **[GeM Rejection Decoder Tool →](https://sahayakai.co.in/tools/gem-rejection-decoder)**: Rejection Remarks aur Codes ke exact meaning aur fixes payein instantly.
+* ✅ **[AI Catalog Dashboard Tool →](/tools/catalog-assistant)**: Catalog parameters aur description generator.
+* ✅ **[GeM Rejection Decoder Tool →](/tools)**: Rejection Remarks aur Codes ke exact meaning aur fixes payein instantly.
 
 ---
 

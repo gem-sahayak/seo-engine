@@ -50,4 +50,4 @@ Most Indian state governments have mandated their local departments to purchase 
 3.  Under the filters section, select the target **State** or **Consignee Location**.
 4.  Apply filters to load bids relevant to that region.
 
-To learn more about local transaction charges, refer to our guide on [GeM Bidding Fees and Slabs](/guides/gem-bidding-fees).
+To learn more about local transaction charges, refer to our guide on [GeM Bidding Fees and Slabs](/knowledge/gem-bidding/gem-bidding-fees).

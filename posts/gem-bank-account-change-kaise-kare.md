@@ -275,9 +275,9 @@ Jo purchase orders bank update hone se pehle issue hue the aur jinki CRAC (Consi
 
 ## Related Knowledge Articles
 
-* **[GeM Profile Update Kaise Kare](/posts/gem-profile-update-kaise-kare):** Details on updating PAN, GSTIN, and organizational structure.
-* **[GeM ePBG Bank Guarantee Rules & Refund Process](/posts/gem-epbg-bank-guarantee-rules-refund):** Rules on bank guarantees and online SFMS verification.
-* **[GeM Bidding Fees Explained](/posts/fees-explained):** Breakdown of caution money structure and transactional charges.
+* **[GeM Profile Update Kaise Kare](/knowledge/gem-registration/gem-profile-update-kaise-kare):** Details on updating PAN, GSTIN, and organizational structure.
+* **[GeM ePBG Bank Guarantee Rules & Refund Process](/knowledge/compliance-policy/gem-epbg-bank-guarantee-rules-refund):** Rules on bank guarantees and online SFMS verification.
+* **[GeM Bidding Fees Explained](/knowledge/gem-registration/fees-explained):** Breakdown of caution money structure and transactional charges.
 
 ---
 

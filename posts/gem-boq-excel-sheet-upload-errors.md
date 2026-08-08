@@ -313,10 +313,10 @@ Yeh temporary server load or internet speed issues ke karan ho sakta hai. Browse
 
 ## 🔗 Related Knowledge Articles
 
-* [GeM Portal Registration Kaise Kare? Complete Troubleshooting & Sign-In Guide](https://sahayakai.co.in/posts/gem-seller-registration-kaise-kare)
-* [How to Get GeM Portal Bid Alerts on WhatsApp for Free](https://sahayakai.co.in/posts/how-to-get-gem-portal-bid-alerts-on-whatsapp)
-* [CPPP Portal Registration & Step-by-Step Tender Search Guide](https://sahayakai.co.in/posts/cppp-portal-registration-tender-search)
-* [How to Claim EMD Exemption in Public Procurement Bids](https://sahayakai.co.in/posts/how-to-claim-emd-exemption-gem-portal-bids)
+* [GeM Portal Registration Kaise Kare? Complete Troubleshooting & Sign-In Guide](/knowledge/gem-registration/gem-seller-registration-kaise-kare)
+* [How to Get GeM Portal Bid Alerts on WhatsApp for Free](/knowledge/gem-bidding/how-to-get-gem-portal-bid-alerts-on-whatsapp)
+* [CPPP Portal Registration & Step-by-Step Tender Search Guide](/knowledge/government-procurement/cppp-portal-registration-tender-search)
+* [How to Claim EMD Exemption in Public Procurement Bids](/knowledge/compliance-policy/how-to-claim-emd-exemption-gem-portal-bids)
 
 ---
 
@@ -329,8 +329,8 @@ Yeh temporary server load or internet speed issues ke karan ho sakta hai. Browse
 ## 🚀 Try SahayakAI Free AI Tools
 
 Apne bidding process ko aur aasan banane ke liye SahayakAI ke dynamic software tools explore karein:
-* 🔍 **[AI Bid Tracker & Whatsapp Alert Tool →](https://sahayakai.co.in/tools/bid-tracker)**: Tenders update aur daily bid submissions statuses direct mobile update.
-* 📋 **[AI Document Extraction Engine →](https://sahayakai.co.in/tools/doc-analyzer)**: BoQ structural changes analyze karne ke liye custom helper tool.
+* 🔍 **[AI Bid Tracker & Whatsapp Alert Tool →](/tools)**: Tenders update aur daily bid submissions statuses direct mobile update.
+* 📋 **[AI Document Extraction Engine →](/tools)**: BoQ structural changes analyze karne ke liye custom helper tool.
 
 ---
 

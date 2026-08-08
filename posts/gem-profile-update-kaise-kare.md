@@ -300,8 +300,8 @@ Niche diye gaye articles padhein jo profile management ke tasks ko details me ex
 
 ## SahayakAI Tools CTA Block
 
-* ✅ **[SahayakAI Profile Readiness Checker →](https://sahayakai.co.in/tools/profile-readiness-checker)**: Apne updated credentials aur mismatch risk analyze karne ke liye instant verification tool use karein.
-* ✅ **[GST & PAN Name Mismatch Validator →](https://sahayakai.co.in/tools/gst-pan-validator)**: Database check karein ki spelling match ho rahi hai ya nahi.
+* ✅ **[SahayakAI Profile Readiness Checker →](/tools)**: Apne updated credentials aur mismatch risk analyze karne ke liye instant verification tool use karein.
+* ✅ **[GST & PAN Name Mismatch Validator →](/tools)**: Database check karein ki spelling match ho rahi hai ya nahi.
 
 ---
 

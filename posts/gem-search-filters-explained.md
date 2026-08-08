@@ -52,4 +52,4 @@ The search dashboard provides several filters:
 *   **Avoid Over-filtering:** Applying too many filters at once can result in zero search results.
 *   **Prioritize End Dates:** Always check the bid end date to ensure you have enough time to prepare your technical documents.
 
-To review eligibility conditions before applying filters, refer back to the [GeM Bid Participation Eligibility Criteria](/guides/bid-participation-rules) guide.
+To review eligibility conditions before applying filters, refer back to the [GeM Bid Participation Eligibility Criteria](/knowledge/gem-bidding/bid-participation-rules) guide.

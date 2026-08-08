@@ -316,9 +316,9 @@ Agar PAN number badal raha hai (jaise Proprietorship se Private Limited conversi
 ## Related Knowledge Articles
 
 Niche diye gaye links se hamare related articles ko read karein taaki profile verification simple ho sake:
-- [GeM Profile Update Kaise Kare](/posts/gem-profile-update-kaise-kare) — Profile details check aur correction rules.
-- [GeM Aadhaar Link Kaise Kare](/posts/gem-aadhaar-link-kaise-kare) — Aadhaar e-verification aur linking process.
-- [GeM Login Kaise Kare](/posts/gem-login-kaise-kare) — Credentials aur password reset issues troubleshooting.
+- [GeM Profile Update Kaise Kare](/knowledge/gem-registration/gem-profile-update-kaise-kare) — Profile details check aur correction rules.
+- [GeM Aadhaar Link Kaise Kare](/knowledge) — Aadhaar e-verification aur linking process.
+- [GeM Login Kaise Kare](/knowledge/gem-registration/gem-login-kaise-kare) — Credentials aur password reset issues troubleshooting.
 
 ---
 

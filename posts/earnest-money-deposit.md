@@ -52,4 +52,4 @@ If your bid is rejected or the contract is awarded to another bidder, your EMD s
 1.  Verify if the buyer has formally closed the bid on the portal dashboard.
 2.  Raise a support ticket under the "Payments & EMD" category.
 
-For automated eligibility verification, check our [GeM Tender Eligibility Checker](/tools/eligibility-checker).
+For automated eligibility verification, check our [GeM Tender Eligibility Checker](/tools).

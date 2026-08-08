@@ -54,4 +54,4 @@ If you detect restrictive parameters, follow these steps to appeal:
 2.  **Reference Guidelines:** Cite GFR 2017 Rule 144(i)(b) which mandates that specifications should not be restrictive.
 3.  **Propose Alternatives:** Suggest standard certifications (e.g. BIS, ISO) instead of brand-specific criteria.
 
-For help drafting these requests formally, try our [Tender Clarification Letter Writer](/tools/clarification-generator).
+For help drafting these requests formally, try our [Tender Clarification Letter Writer](/tools).

@@ -84,19 +84,19 @@ Manual search aur complex documents reading ki pareshani ko dur karein:
 
 ### ✅ AI Bid Search
 Search active bids using simple Hinglish queries instantly.
-[Try Demo →](https://sahayakai.co.in/tools/bid-search)
+[Try Demo →](/tools/tender-search)
 
 ---
 
 ### ✅ AI Tender Document Analyzer
 Upload complex 100-page tender PDFs to get EMD and key eligibility details in seconds.
-[Try Demo →](https://sahayakai.co.in/tools/bid-analyzer)
+[Try Demo →](/tools/pdf-analyzer)
 
 ---
 
 ### ✅ AI Catalog Dashboard
 Pair products with the correct GeM catalog path dynamically.
-[Try Demo →](https://sahayakai.co.in/tools/ai-catalog-dashboard)
+[Try Demo →](/tools/catalog-assistant)
 
 ---
 
@@ -137,11 +137,11 @@ SahayakAI Chrome Extension direct whatsapp alerts aur notifications ke sath acti
 ---
 
 ## 🔗 Related Articles
-*   [How to Resolve Udyam Aadhaar Verification Failure on GeM](https://sahayakai.co.in/blog/udyam-error)
-*   [GeM Portal Direct Purchase Limit Rules 2026](https://sahayakai.co.in/blog/gem-portal-direct-purchase-limit-rules-2026)
-*   [How to Claim EMD Exemption on GeM Portal Bids](https://sahayakai.co.in/blog/how-to-claim-emd-exemption-gem-portal-bids)
-*   [Top Bidding Mistakes MSMEs Make on GeM Portal Tenders](https://sahayakai.co.in/blog/gem-bidding-mistakes-msme-tenders)
-*   [Resolving GeM Portal Catalog Upload Errors](https://sahayakai.co.in/blog/resolving-gem-portal-catalog-upload-errors)
+*   [How to Resolve Udyam Aadhaar Verification Failure on GeM](/knowledge/gem-registration/udyam-error)
+*   [GeM Portal Direct Purchase Limit Rules 2026](/knowledge/compliance-policy/gem-portal-direct-purchase-limit-rules-2026)
+*   [How to Claim EMD Exemption on GeM Portal Bids](/knowledge/compliance-policy/how-to-claim-emd-exemption-gem-portal-bids)
+*   [Top Bidding Mistakes MSMEs Make on GeM Portal Tenders](/knowledge/gem-bidding/gem-bidding-mistakes-msme-tenders)
+*   [Resolving GeM Portal Catalog Upload Errors](/knowledge/catalog-management/resolving-gem-portal-catalog-upload-errors)
 
 ---
 

@@ -79,7 +79,7 @@ To save time, use advanced filtering strategies:
 *   **Geographical Sourcing:** Filter state-wise to prioritize bids within your regional supply limits.
 *   **Timeline Sorting:** Sort by bid end date to focus on immediate opportunities first.
 
-For compliance rules and EMD exemption details, check our guides on [Claiming EMD Waivers on GeM](/guides/earnest-money-deposit) and [GeM Bidding Rules & Compliance Handbook](/guides/gem-bidding-rules-handbook).
+For compliance rules and EMD exemption details, check our guides on [Claiming EMD Waivers on GeM](/knowledge/gem-bidding/earnest-money-deposit) and [GeM Bidding Rules & Compliance Handbook](/knowledge/gem-bidding/gem-bidding-rules-handbook).
 
 ---
 
@@ -102,3 +102,10 @@ To optimize for search engines and AI assistants, remember:
 ## Official References
 *   [Official GeM Bid Lists Portal](https://bidplus.gem.gov.in)
 *   [Ministry of MSME Udyam Portal](https://udyamregistration.gov.in)
+
+
+---
+
+## Related Procurement Guidance
+
+To set up a daily morning tracking routine for active bids, read our [Daily GeM Tender Monitoring Routine](/knowledge/gem-bidding/daily-tender-monitoring).

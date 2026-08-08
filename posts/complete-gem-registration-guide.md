@@ -99,3 +99,10 @@ Once your basic account is created, you must complete your seller profile. The p
 *   [GeM Portal Homepage](https://gem.gov.in)
 *   [Ministry of MSME Portal](https://udyamregistration.gov.in)
 *   [GeM Seller Helpdesk Directory](https://gem.gov.in/help)
+
+
+---
+
+## Related Procurement Guidance
+
+For partnership firms, check our specialized checklist on [Partnership Firm Registration Documents](/knowledge/gem-registration/partnership-docs).

@@ -303,8 +303,8 @@ Aap online GeM Helpdesk portal par complaint raise kar sakte hain ya fir GeM Inc
 
 Apne bids aur compliance checking ko automated aur easy banayein:
 
-* ✅ **[AI Bid Analyzer Tool →](https://sahayakai.co.in/tools/bid-analyzer)**: Bid Document upload karein aur 1-click me check karein ki bidding me splitting aur MSE preference criteria kya hai.
-* ✅ **[Eligibility Checker Tool →](https://sahayakai.co.in/tools/eligibility-checker)**: Apna Udyam NIC Code aur bid detail matching fast-track check karein.
+* ✅ **[AI Bid Analyzer Tool →](/tools/pdf-analyzer)**: Bid Document upload karein aur 1-click me check karein ki bidding me splitting aur MSE preference criteria kya hai.
+* ✅ **[Eligibility Checker Tool →](/tools)**: Apna Udyam NIC Code aur bid detail matching fast-track check karein.
 
 ---
 

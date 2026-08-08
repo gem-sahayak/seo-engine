@@ -309,8 +309,8 @@ Seller dashboard par 'Bids' section me jaiye, bid number search karein aur wahan
 ## 🚀 SahayakAI Tools CTA block
 
 Apne custom bids aur representation letters ko streamline karne ke liye hamare AI-powered tools browse karein:
-* ✅ **[Tender Clarification Letter Writer →](https://sahayakai.co.in/tools/clarification-generator)**: Restrictive specs ko challenge karne ke liye professional email aur letter draft generate karein.
-* ✅ **[Rejection Representation Writer →](https://sahayakai.co.in/tools/rejection-reply-generator)**: Galat disqualification ko challenge karne ka automated response writer.
+* ✅ **[Tender Clarification Letter Writer →](/tools)**: Restrictive specs ko challenge karne ke liye professional email aur letter draft generate karein.
+* ✅ **[Rejection Representation Writer →](/tools/ai-representation)**: Galat disqualification ko challenge karne ka automated response writer.
 
 ---
 
