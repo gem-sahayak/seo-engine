@@ -4,7 +4,7 @@ summary: "GeM portal par bank account details aur IFSC code change karne ka step
 date: "2026-07-20"
 updatedDate: "2026-07-20"
 author: "SahayakAI Editorial Team"
-category: "compliance-policy"
+category: "gem-registration"
 layout: "ClusterArticle"
 reviewer: "Procurement Desk"
 version: "1.0"
